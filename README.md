@@ -1,4 +1,4 @@
 # ii_petrik
-обучение нейросети на тесте Петрика
+обучение нейросети на тексте Петрика
 
 https://yaroshenko.by/char-lstm-text-generation/
